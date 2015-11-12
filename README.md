@@ -1,2 +1,1 @@
-# golang-practice
-Golang practice
+golang-practice
